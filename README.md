@@ -14,8 +14,6 @@ Solidity source and deployment details for the asset registry used by [SyGra Mar
 
 ## Source and verification
 
-`IntelligenceAsset.sol` is the MIT-licensed [PFPai.io reference source](https://github.com/PFPai-io/pfpai-contract/blob/5cc5bfa380973c0be63a46f2845ceee6cf5c3151/IntelligenceAsset.sol). This package preserves its source and license as published.
-
 The reference source was compiled with Solidity `0.8.19+commit.7dd6d404`, the optimizer disabled, and the Paris EVM target. The executable portions of its creation and runtime bytecode match the corresponding bytes from the deployment transaction and the mainnet RPC. The trailing Solidity CBOR metadata differs, so the full bytecode comparison does not establish the exact original source text or build settings. The explorer currently displays the contract as unverified.
 
 ## Build
