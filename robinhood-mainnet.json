@@ -1,0 +1,30 @@
+{
+  "network": "Robinhood Chain Mainnet",
+  "chainId": 4663,
+  "address": "0x1a55eb5c50bd266c2ffd25a125820acfffab1bf5",
+  "deploymentTransaction": "0x8e7054986110633bb6ee398795e28ff0283652c2925a769d0ae44dec66db94c9",
+  "deploymentBlock": 104294370,
+  "deployer": "0xe4b26cf471f7ec8c9de1ef611b23794f040c3463",
+  "referenceBuild": {
+    "compiler": "0.8.19+commit.7dd6d404",
+    "optimizerEnabled": false,
+    "evmVersion": "paris",
+    "sourceCommit": "5cc5bfa380973c0be63a46f2845ceee6cf5c3151"
+  },
+  "creationBytecodeComparison": {
+    "lengthBytes": 3918,
+    "onChainSha256": "bd755c8017e9ce617ef3da10d6bcc662f2165ebc26a01d9ccfccc173e06f85a3",
+    "referenceBuildSha256": "a09c982f3757715d8387e1aa66cc33603b8b00bf9968e1e72841c7bc02722d14",
+    "executableSha256": "71535b2bfc137acac2930f1ee4ba7960c5f2a14c353a0381b969dd9c61ae2398",
+    "fullBytecodeMatch": false,
+    "executableBytecodeMatch": true
+  },
+  "runtimeBytecodeComparison": {
+    "lengthBytes": 3881,
+    "onChainSha256": "7b9e13e65a0d1c1187e32bc08a3383ad58c0ef546ba6fc87f894444ea7dbd77a",
+    "referenceBuildSha256": "4c2797d6abd3694bf813aae83f6369e21922ae5c12af19274be073a2d8258b3e",
+    "executableSha256": "7248dcb5f044c82585a9d100f9b1e269d2ed9688088b692be0dd9bdd02bf5a0f",
+    "fullBytecodeMatch": false,
+    "executableBytecodeMatch": true
+  }
+}
